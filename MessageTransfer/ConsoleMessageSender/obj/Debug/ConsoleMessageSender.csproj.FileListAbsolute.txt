@@ -1,0 +1,15 @@
+c:\users\farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\ConsoleMessageSender\bin\Debug\ConsoleMessageSender.exe.config
+c:\users\farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\ConsoleMessageSender\bin\Debug\ConsoleMessageSender.exe
+c:\users\farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\ConsoleMessageSender\bin\Debug\ConsoleMessageSender.pdb
+c:\users\farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\ConsoleMessageSender\obj\Debug\ConsoleMessageSender.exe
+c:\users\farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\ConsoleMessageSender\obj\Debug\ConsoleMessageSender.pdb
+C:\Users\Farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\ConsoleMessageSender\obj\Debug\ConsoleMessageSender.csprojResolveAssemblyReference.cache
+C:\Users\Farzad\Desktop\Temp\MessageReceiverWebService\ConsoleMessageSender\bin\Debug\ConsoleMessageSender.exe.config
+C:\Users\Farzad\Desktop\Temp\MessageReceiverWebService\ConsoleMessageSender\obj\Debug\ConsoleMessageSender.exe
+C:\Users\Farzad\Desktop\Temp\MessageReceiverWebService\ConsoleMessageSender\obj\Debug\ConsoleMessageSender.pdb
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\ConsoleMessageSender\bin\Debug\ConsoleMessageSender.exe.config
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\ConsoleMessageSender\obj\Debug\ConsoleMessageSender.exe
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\ConsoleMessageSender\obj\Debug\ConsoleMessageSender.pdb
+C:\Users\Farzad\Desktop\Project\MessageTransfer\ConsoleMessageSender\bin\Debug\ConsoleMessageSender.exe.config
+C:\Users\Farzad\Desktop\Project\MessageTransfer\ConsoleMessageSender\obj\Debug\ConsoleMessageSender.exe
+C:\Users\Farzad\Desktop\Project\MessageTransfer\ConsoleMessageSender\obj\Debug\ConsoleMessageSender.pdb
